@@ -93,9 +93,3 @@
 - The deeper you go into the map, the harder the mobs are.  
 - Some mobs have a higher chance of spawning than others.  
 
-## Status System  
-- Some moves and weapons can inflict statuses:  
-  - **Bleed**: Causes blood bursts upon max fill.  
-  - **Frostbite**: Slows your movement.  
-  - **Burn**: Burns over time.  
-  - **Rot**: Inflicts poison damage.  
